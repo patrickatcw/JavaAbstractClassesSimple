@@ -2,7 +2,8 @@ package com.me;
 
 //step 14 create bird class
 //step 15 extend
-public class Bird extends Animal{
+//step 21 make abstract
+public abstract class Bird extends Animal{
 
     //step 16 constructor
     public Bird(String name) {
@@ -22,5 +23,12 @@ public class Bird extends Animal{
         //step 18 to main
 
     }
+
+    //step 22 add another abstract method
+    public abstract void fly();
+
+    //step 23 to main, look at error created on bird instance,
+    //so create a new class parrot
+
 
 }
