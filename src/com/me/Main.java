@@ -22,11 +22,26 @@ public class Main {
         //step 14 create a bird class
 
         //step 18 an instance
-        Bird bird = new Bird("Parrot");
+        //Bird bird = new Bird("Parrot");
+        //step 27 change from bird to parrot
+        Parrot parrot = new Parrot("Rican Tucan");
 
         //step 19 calling methods
-        bird.breathe();
-        bird.eat();
+        //bird.breathe();
+        //bird.eat();
+        //step 28 change from bird to parrot
+        parrot.breathe();
+        parrot.eat();
+        parrot.fly();
+        //step 29 run
+        /*
+        results;
+        Breathe in, breathe out, repeat
+        Rican Tucan is pecking
+        Flitting from branch to branch
+         */
+
+        //step 30 create penguin class
 
         //step 20 run
         /*
