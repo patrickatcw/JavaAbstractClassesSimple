@@ -1,4 +1,5 @@
 package com.me;
+//similar to inheritance
 
 public class Main {
 
