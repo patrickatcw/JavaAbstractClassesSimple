@@ -43,6 +43,19 @@ public class Main {
 
         //step 30 create penguin class
 
+        //step 34 instance for penguin
+        Penguin penguin = new Penguin("Emperor");
+
+        //step 35 calling method for penguin
+        penguin.fly();
+
+        //step 36 run
+        /*
+        results;
+        I'm a penguin, not so good at flying
+         */
+        //done!
+
         //step 20 run
         /*
         results;
